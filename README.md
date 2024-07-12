@@ -82,7 +82,7 @@ $ tree
 The `server` folder initially contains two files, `app.py` and `models.py`
 
 ```text
-├── CONTRIBUTING.md
+├── CONTRIBUTING.mdtr
 ├── LICENSE.md
 ├── Pipfile
 ├── Pipfile.lock
